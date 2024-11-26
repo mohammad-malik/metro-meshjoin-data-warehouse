@@ -133,4 +133,4 @@ This project is a simulation of a near-real-time Data Warehouse (DWH) implementa
 ---
 ## **License**
 This project is licensed under the MIT License. Feel free to use and modify it as per your needs.
-
+The MySQL Connector/J is licensed under GPL v2 with FOSS exception.
